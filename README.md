@@ -23,6 +23,7 @@ For HCIN720 Group Assignment
 
    6. summery: When you update one event on your google calendar, this display will probably changed based on its due day. It only contain event which is happened in 14 days, since there are only 14 hole a row. Everytime, this display only show most recent 3 events, according to the number of big holes.
    7. About the Ferrofluid and the container: We tried many combinations to create a stable container-liquid environment which the ferrofluid stays flexible and doesn't stick to anything else. But due to the limitation of time, money and our chemical knowledge, we are not able to make a satisfying container. This could be fixed if we later consult with the chemistry department of RIT.
+  These are some of our test containers.
 ![](photos/test1.jpg)
 ![](photos/test2.jpg)
 ![](photos/test3.jpg)
