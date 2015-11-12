@@ -13,7 +13,6 @@ For HCIN720 Group Assignment
 ![](photos/wood1.jpg)
 ![](photos/wood2.jpg)
 ![](photos/wood3.jpg)
-
 <br>
    4. Ferrofluid moving mechanism: There is an row of electromagnets, which pull the Ferrofluid out from the big tanks and fill appropriate small puddles. The motor is fixed on the side of the box to move the electromagnet carriage. The carriage will move to a specific location in order to create a new partten in the reservoir.<br>
 
